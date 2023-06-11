@@ -1,4 +1,4 @@
-# project
+# Design Patterns
 
 ## Behavioral patterns
 - [Template Method](https://github.com/hirotoshimizu/design-patterns/blob/main/TemplateMethod/memo.md)
