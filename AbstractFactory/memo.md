@@ -13,6 +13,9 @@ Abstract Factoryパターンでは、抽象的な工場が登場し、抽象的�
 ## 特徴
 このパターンにより、どのオブジェクトを使用するのかという規則と、それらのオブジェクトの使用方法に関するロジックを分離することができる。
 
+## テンプレート
+[ソースコード](https://github.com/hirotoshimizu/design-patterns/blob/main/AbstractFactory/abstract-factory.py)
+
 ## ダイアグラム
 ```mermaid
 classDiagram

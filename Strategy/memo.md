@@ -9,6 +9,14 @@
 該当アルゴリズムの実装からアルゴリズムを個別に切り出す。
 これによりコンテキストによる選択が可能になる。
 
+## 特徴
+- Strategyパターンは、アルゴリズムのファミリを定義するもの
+- swith および、条件分岐を無くすことができる。
+- すべてのアルゴリズムは、同じ方法で起動しなければならない。（すべて同じインターフェイスとなっている必要がある。）
+
+## テンプレート
+[ソースコード](https://github.com/hirotoshimizu/design-patterns/blob/main/Strategy/strategy.py)
+
 ## ダイアグラム
 ```mermaid
 classDiagram
