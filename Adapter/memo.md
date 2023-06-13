@@ -24,20 +24,15 @@ Adapterパターンには2種類ある。
 ```mermaid
 classDiagram
     class Client {
-        experiment
     }
     class Target {
         <<interface>>
-        config_protocol.py
         +operation()*
     }
     class Adapter {
-        XMLAdapter
         +operation()
     }
     class Adaptee {
-        beautiful soup
-
         +specificOperation()
     }
     Target <|-- Adapter
