@@ -10,4 +10,6 @@
 
     
 ## Structural patterns
+- [Adapter](https://github.com/hirotoshimizu/design-patterns/blob/main/Adapter/memo.md)
+- [Facade](https://github.com/hirotoshimizu/design-patterns/blob/main/Facade/memo.md)
 - [Strategy](https://github.com/hirotoshimizu/design-patterns/blob/main/Strategy/memo.md)
