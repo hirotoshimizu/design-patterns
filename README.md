@@ -1,7 +1,6 @@
 # Design Patterns
 
 ## Behavioral patterns
-- [Command](https://github.com/hirotoshimizu/design-patterns/blob/main/Command/memo.md)
 - [Observer](https://github.com/hirotoshimizu/design-patterns/blob/main/Observer/memo.md)
 - [Template Method](https://github.com/hirotoshimizu/design-patterns/blob/main/TemplateMethod/memo.md)
 
